@@ -12,7 +12,7 @@ How to install library:
 Python:
 pip install library_name
 
-Python 3;
+Python 3:
 pip3 install library_name
 
 How to Run the program:
